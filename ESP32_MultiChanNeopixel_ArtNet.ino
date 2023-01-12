@@ -1,8 +1,6 @@
 #include "Arduino.h"
-#include "SPI.h"
 #include <WiFi.h>
 #include "AsyncUDP.h"
-#include "NeoViaSPI.h"
 #include "I2SClocklessLedDriver.h"
 #include "artNetPacket.h"
 
