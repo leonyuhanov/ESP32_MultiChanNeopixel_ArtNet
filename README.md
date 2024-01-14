@@ -7,3 +7,6 @@ This is demo code that drives the LED umrella https://www.instagram.com/p/Cmx8EQ
 # Pre requisite libs
 
 https://github.com/hpwit/I2SClocklessLedDriver
+
+# Sanity Test for 10CH Driver Board
+Upload https://github.com/leonyuhanov/ESP32_MultiChanNeopixel_ArtNet/tree/main/ESP32_10CH_NeopixelDriver to the ESP32. The code is set up to drive 10 panels with 250pixels per chanel
